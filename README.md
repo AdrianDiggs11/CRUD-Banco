@@ -29,4 +29,4 @@ Este proyecto es un prototipo de una página web para el gobierno que genera doc
 ¡Contribuye al proyecto! Si encuentras errores o tienes ideas para mejorarlo, abre un *issue* o envía un *pull request*.
 
 ## Autores
-- Martin Adrián Martínez Martínez
+- Martín Adrián Martínez Martínez
