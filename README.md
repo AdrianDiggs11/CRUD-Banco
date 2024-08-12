@@ -1,6 +1,7 @@
 # Prototipo de Página para el Gobierno
 
-!Imagen de Portada
+![image](https://github.com/user-attachments/assets/b75bec73-b06b-4c03-82a7-2706f62e8f77)
+
 
 ## Descripción
 Este proyecto es un prototipo de una página web para el gobierno que genera documentos para los bancos, alrededor de 100 por día. El objetivo es mejorar la eficiencia y organización en la generación y manejo de estos documentos.
