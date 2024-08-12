@@ -1,6 +1,6 @@
 # Prototipo de Página para el Gobierno
 
-![image](https://github.com/user-attachments/assets/b75bec73-b06b-4c03-82a7-2706f62e8f77)
+![image](https://github.com/user-attachments/assets/d4178423-2d47-4dc9-a3c5-8e88671c4e69)
 
 
 ## Descripción
